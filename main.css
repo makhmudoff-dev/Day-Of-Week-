@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f0fcfc;
+  font-family: "Arial", sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 450px;
+  background-color: mediumseagreen;
+}
+h1 {
+  color: #f0fcfc;
+  font-size: 5em;
+}
